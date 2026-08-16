@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./KRUC%20BANDIT%20-%20Edge-Case%20HunterSML.png" width="190" alt="KB, the KRUC Bandit">
+  <img src="./kruc-bandit-banner.png" width="100%" alt="Always the Vectors — KRUC Bandit, edge-case hunter">
 </p>
 
 <h1 align="center">Always the Vectors</h1>
